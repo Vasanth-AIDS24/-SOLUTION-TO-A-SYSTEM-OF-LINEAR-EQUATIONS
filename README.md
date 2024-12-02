@@ -16,7 +16,7 @@ End the program
 ## Program:
 
 ## Output:
-!![Alt text](mathsexp1-1.png)
+!![![Alt text](<Screenshot from 2024-12-02 19-43-17.png>)]
 ## (mathsexp1.png)Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
