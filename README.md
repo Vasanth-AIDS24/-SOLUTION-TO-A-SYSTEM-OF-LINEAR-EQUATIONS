@@ -15,7 +15,7 @@ Using the np.linalg.solve(), we can find the solutions.
 End the program
 ## Program:
 ```
-#program to find the rank of the matrix
+
 #Developed by:Vasanth P
 RegisterNumber:24900136
 import numpy as np
